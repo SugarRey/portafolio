@@ -32,7 +32,7 @@
     }
 
     .footer a:hover {
-        color: #ffc107;
+        color: #154af8;
     }
 
     .text-md-end {
@@ -79,7 +79,7 @@
     .banner-content .btn {
         padding: 10px 20px;
         font-size: 1rem;
-        background-color: #ffc107;
+        background-color: #154af8;
         color: #fff;
         border: none;
         border-radius: 5px;
@@ -87,7 +87,7 @@
     }
 
     .banner-content .btn:hover {
-        background-color: #e0a800;
+        background-color: #154af8;
     }
 
     .banner-image img {
@@ -136,7 +136,7 @@
 
     .service-icon {
         font-size: 2.5rem;
-        color: #ffc107;
+        color: #154af8;
     }
 
     /* Media Queries */
